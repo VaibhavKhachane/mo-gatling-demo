@@ -1,0 +1,10 @@
+{
+  "simulation": "simulation.LoopRequest",
+  "simulationId": "looprequest",
+  "start": 1657534904947,
+  "description": "looping req",
+  "scenarios": ["mobile store scenarios"],
+  "assertions": [
+
+  ]
+}

@@ -1,0 +1,7 @@
+ To run project, Use following steps
+ Step 1: right click on engine and run engine
+ Step 2: Select scenario number which want to be executed
+ Step 3: Add description
+
+ To refer report
+ Open Target->Gatling-> refer reports according to execution date and time

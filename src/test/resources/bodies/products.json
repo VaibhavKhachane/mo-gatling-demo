@@ -1,0 +1,27 @@
+{
+  "name": "QA Services1",
+  "decription": "Wholesaler",
+  "variants": [
+    {
+      "price": "500000",
+      "stock": 20,
+      "status": "ENABLED",
+      "images": [{
+        "src": "https://cdn-store.xendit.co/dev/96f8545d-dd31-4dda-a27e-9ac20ac4a509.png"
+      }],
+      "option_positions": [
+        0
+      ]
+    }
+  ],
+  "options": [
+    {
+      "name": "color",
+      "values": [
+        {
+          "name": "red"
+        }
+      ]
+    }
+  ]
+}
